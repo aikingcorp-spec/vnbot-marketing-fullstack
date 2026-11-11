@@ -1,0 +1,613 @@
+{
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "retrieved_from": "existing local library",
+  "upstream_commit": null,
+  "note": "Commit upstream không có trong bản thư viện hiện có; checksum khóa đúng các file đã đóng gói, không khẳng định là upstream mới nhất.",
+  "license": "MIT",
+  "files": [
+    {
+      "path": "skills/ab-testing/SKILL.md",
+      "sha256": "c5c547f2ccee5034bf24b1afa5e7c1ae2913f2618bc65f3e0788a1c55f7759b9"
+    },
+    {
+      "path": "skills/ab-testing/references/sample-size-guide.md",
+      "sha256": "53525ddf0e904477262dc3dbc89d4bd4205f2e07d655616de91e22a310f768c4"
+    },
+    {
+      "path": "skills/ab-testing/references/test-templates.md",
+      "sha256": "761a40b9de8d16f18fa7f60b59e77aa749607ac8014af43e0b022f47fa87c812"
+    },
+    {
+      "path": "skills/ad-creative/SKILL.md",
+      "sha256": "7af23285e4ac6df65f2f23e940279cdc9a70280a908a34214e86954ab7b0b000"
+    },
+    {
+      "path": "skills/ad-creative/assets/creative-review-template.html",
+      "sha256": "0ca7cce4fa809235aee776606205925d8dc01bde8a8325e2af7197d86394d3b7"
+    },
+    {
+      "path": "skills/ad-creative/references/awareness-headlines.md",
+      "sha256": "0f9b2408e402ad03956ff84bf31e5c594371dd3e2974c5390c42af4e3c60ed4d"
+    },
+    {
+      "path": "skills/ad-creative/references/creative-review-page.md",
+      "sha256": "03518911b1648bce12a3d579c5979b97442af50de24ff74809a43ba3395dcb3a"
+    },
+    {
+      "path": "skills/ad-creative/references/creative-roadmap.md",
+      "sha256": "a0be737841d8a73f0cf02094c9ed1e3f7c050e1c6f867794b1fa8b64dbf3b50e"
+    },
+    {
+      "path": "skills/ad-creative/references/generative-tools.md",
+      "sha256": "9c977cb5a0e5c841ebf98bc1fd531aa0fb1b949aef14093d4a0146f19606f7a5"
+    },
+    {
+      "path": "skills/ad-creative/references/hook-system.md",
+      "sha256": "2967ecbf32423bbb70ca9587b0af8d257466c852106fe909f6447bbab9a18002"
+    },
+    {
+      "path": "skills/ad-creative/references/imessage-video-ads.md",
+      "sha256": "99627f4a43f9ee8394be49c95bb865496037cf9901dfcdc1d1b0af9d86396aec"
+    },
+    {
+      "path": "skills/ad-creative/references/meta-creative-formats.md",
+      "sha256": "09720c4550761365a8c93c8587fe629c87718dbb331677312d93e5b2faa9761f"
+    },
+    {
+      "path": "skills/ad-creative/references/motion-video-ads.md",
+      "sha256": "c64e83199f0316e12e7811667f09a6475a34044c8eec2e3ba549faf9c33fc28c"
+    },
+    {
+      "path": "skills/ad-creative/references/platform-specs.md",
+      "sha256": "de69753161071a8d3e4d244280562810a6c4d6ae2696c5a21940f983abd0aa8e"
+    },
+    {
+      "path": "skills/ad-creative/references/short-form-video-specs.md",
+      "sha256": "1aa1cc498e350ed00ec4783b60d2eddee5bc98f25750761f6086742d0758f953"
+    },
+    {
+      "path": "skills/ad-creative/references/static-ad-templates.md",
+      "sha256": "fc93d3f5fa6b3442cc1c6785eda05979da0d299c640d5f0a277033209d68e651"
+    },
+    {
+      "path": "skills/analytics/SKILL.md",
+      "sha256": "c8cb2cbeb318393d3a014ebed366ae13e6cd84d205cb6a2ac03890698639a146"
+    },
+    {
+      "path": "skills/analytics/references/event-library.md",
+      "sha256": "c60e3e145e6b06258570350b614913ed9150143b4494a71396abaef479502b05"
+    },
+    {
+      "path": "skills/analytics/references/ga4-implementation.md",
+      "sha256": "a5715de092984fc148b1825f1edc7730813452876f991819c219b477ef03ed6d"
+    },
+    {
+      "path": "skills/analytics/references/gtm-implementation.md",
+      "sha256": "0b161102de710c978cc2ac52c78c79f32e184bc028aa946eba18e777d7a60d64"
+    },
+    {
+      "path": "skills/competitor-profiling/SKILL.md",
+      "sha256": "66d93cd9c8120d63d45c4154f13bf6b475db99b7628569ed4e42eb271909e254"
+    },
+    {
+      "path": "skills/competitor-profiling/references/templates.md",
+      "sha256": "710d78cb519012eb7e39f63643e22d7b9026c91c569262b44c45535c10717a91"
+    },
+    {
+      "path": "skills/competitor-profiling/references/tool-reference.md",
+      "sha256": "fda64910bc1b3a2bc7df21c15701220849b4b79a58a51f9d3ccae1b7311dbd79"
+    },
+    {
+      "path": "skills/content-strategy/SKILL.md",
+      "sha256": "5e74201646b8ae0b7ddfd2f4a4a14149096f490667b32bcb9e3a35e7326d88b0"
+    },
+    {
+      "path": "skills/content-strategy/references/content-distribution.md",
+      "sha256": "1861a1aab0627ab29c279000879a9889242da1ba85e677acdc759c66a6241778"
+    },
+    {
+      "path": "skills/content-strategy/references/headless-cms.md",
+      "sha256": "efc796ae9596d1efcb876683db2d9b7c10c83e76e1cb69e527097907d5b4fc3f"
+    },
+    {
+      "path": "skills/conversion-tracking/SKILL.md",
+      "sha256": "995b14f6ea66132e6b7e202616500371940adda84983fec3934f18d48b657fde"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/README.md",
+      "sha256": "5838272e4d524a4d55aec96faf987921dd888dea3eddff2d4f81e402b999248d"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-acuity-scheduling.json",
+      "sha256": "426514803f0ebabf2963c75d952cb2dfcc5cd882591b57bac77baf8de68b1ec7"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-cal-com.json",
+      "sha256": "e58f4b6912c2618509c36ebc5d49e66ef593b88d70e9e0fddd28021321c2ccee"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-calendly.json",
+      "sha256": "4cc8f3d8b2073a8baf858e81e5311dad5710978c3be504a19e488ed1f9de65e7"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-contact-form-7.json",
+      "sha256": "1f3d01757da4e884d7ad3c89875ae5d208ee80faa034ca4264af85b2fb093b37"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-divi-forms.json",
+      "sha256": "33ff8fba2a162940e9ffcd851b79db5f48f72e7e19c748f93d258776350ba50a"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-elementor-forms.json",
+      "sha256": "b05ff8a7060ed050bf1d9b240c7559e3d0917cc9454dbd7b3b6e841ab7c7ac4a"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-file-download.json",
+      "sha256": "ecbb1fd305173b515fbcae61d9d9049c4f59f4253799c9f5a3f50d50c9b659e9"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-fluent-forms.json",
+      "sha256": "23a849a28fdcde10f4759acc85209b724d3e85400fe1f1e216d31254220fe92c"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-formidable-forms.json",
+      "sha256": "564ba05d8f3d69a3e94ce147314deaf30ba86971a2449ed58f40ce22da4c07af"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-forminator.json",
+      "sha256": "c894b5c74462744826829f1d5d0f6e2ee59af6c1bf594fec277d13bb204340a5"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-framer-forms.json",
+      "sha256": "38de58405bd4704ecffce5b2f6bad6ffe5d1c0ea847ea164ed8eaf46a51a934d"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-generic-ajax-form.json",
+      "sha256": "3d378776b2d4ea8a1c44b4b723b6ded298ccf058bdb016b68d7800934e20f01e"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-gravity-forms.json",
+      "sha256": "2441e7792d67007b875282043dec3e81871a6619b196b1356edf1a461014704a"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-hubspot-forms.json",
+      "sha256": "8768ee01a80eb8db440d2cbc0929cab1661193e80f431fefb5af1cce4af5cbab"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-jotform.json",
+      "sha256": "043e7624be8a1b0b8b3dbb170e164553f202e8926e989e97536b35c09279e3b9"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-ninja-forms.json",
+      "sha256": "426bb73b5071bf7d5c2dd6daefd1696c56ef3ed5d820bf7119c511494f9d7d77"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-phone-click.json",
+      "sha256": "ae2c337c44569bc942bf6c8230dc692c4a4381d9d3ed82701ab2bd11cac0c894"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-squarespace-forms.json",
+      "sha256": "9290e2b9d1bccda6c84337227b2713b11eb0867576633ed275da98351e5bab1c"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-tally.json",
+      "sha256": "b035b835b6f10395a76d0bfbd82b2eed4030639dd6a98574b2fe039b9e069118"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-thank-you-page.json",
+      "sha256": "335e19b59a140fa8dcbc9e498873c6b1df414aebcb0a4c93e3174f261ae6ead3"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-typeform.json",
+      "sha256": "3c51a4c2a7cafb9306097d2678734fcc8de63bb353cb21941bf6e5a21d919225"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-webflow-forms.json",
+      "sha256": "3ed98ac500883d03a90e2fc117c2cce25bee3584b5ce5f79ff14da2da2859813"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-wix-forms.json",
+      "sha256": "6c0d4f35298c1d08859617054ed3bdca9fb6185fc4757e4ad3179926e59bbdd4"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-wix-scheduling.json",
+      "sha256": "1ea831747838a0e82a9c6f952ecadeac6b76fbab5d09fe92fa4a067092129d78"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-wpforms.json",
+      "sha256": "aba0f592a18a31be10d97d7f66caeb6f8bccc8905bd2decde69d9446011279da"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/detect/detect-ws-form.json",
+      "sha256": "325a98b53de2e2acc4b0f225fd2c636217063b9b8daee379ddcd1d57128acc61"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/event-map.json",
+      "sha256": "4d2d09b3dae067247c018f84709a1f43f0aba572c4426732bf522d25f65d56cf"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/send/ga4.json",
+      "sha256": "54711eae2bdf3749795d5bbda8032cc998f7c3b24bd9a1513b2a3db1fa6e5554"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/send/google-ads.json",
+      "sha256": "7f7eb01043e67e98276777fb6b9765cf76755a792bdba2e0e76f8eeb1d37476b"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/send/linkedin.json",
+      "sha256": "8ca48dab89786bc19e54278feb6a090aee5226fc83dc9ce3763888100b361e6c"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/send/meta.json",
+      "sha256": "1b16894b8aa42f109d2e166d4cc07424bbfa6022b771bcfbcb23315fe52dc8e5"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/send/microsoft.json",
+      "sha256": "db97b1c76a870d5df2f549a6fb4617ea889434b12a6162e3accb38d0ac96c9e4"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/gtm-recipes/send/tiktok.json",
+      "sha256": "c9b83ad1fb510394b29f7c8e69cc1d8a13c98721b71a75a1d1f3aa73101fa493"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/README.md",
+      "sha256": "bab0e38326820f4b8405c433e7ae8b36b1f4766ada377592415633df0239c82c"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/acuity-scheduling-field.html",
+      "sha256": "429d45cfe22390749d5a02365b1a75004d3e00a5135dffb3225f35a35d16c6ce"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/acuity-scheduling.js",
+      "sha256": "803ac3687cd0c1b0aa2595c45c1b6482e88a0e0c8c673062d804bc43284b6b8e"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/cal-com.js",
+      "sha256": "bbb673890b353c5029d8130f052437e037ca4c0f7ce1d9cf5d6907763ce3caa5"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/calendly.js",
+      "sha256": "b9dab516bc55fdfd1fed3bc0e9f488594e8a159fe40b63beb38895f47b9df779"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/contact-form-7.js",
+      "sha256": "154c1d776fe958c1e1df869b6533f068f3046fa987dbb94b9bbf9acfc2c10999"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/divi-forms.js",
+      "sha256": "4edd76362677a979ef7854c1dee7406141617eb463ca58851816297c7f794522"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/elementor-forms.js",
+      "sha256": "5d3c725ce0bc87455cccf69d93cfb9a2941c1f0dab522de683242ab4ad8aa7f6"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/file-download.js",
+      "sha256": "531bfa6201f5f4696e16a1db20c45e2fcedfcdd831cf292d258a06a9538ab2c8"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/fluent-forms.js",
+      "sha256": "aca359b50acdc6deb3fe0cea43604098bef8adfaa05dff19b285cb143f6b806c"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/formidable-forms.js",
+      "sha256": "bf4f9e19a6cd809f16e408bcd71443cbcaf90851a0d30cb2a2eeb32217a43050"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/forminator.js",
+      "sha256": "8791b19a667b5dd9ec5ae3e13f344deefe5976004fdba4cd81c8c5df061b1faa"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/framer-forms.js",
+      "sha256": "7d0ca007cd3d2bfae6465b6a96a646d3a1835b876a0fe22df6b1dc68f8125a48"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/generic-ajax-form.js",
+      "sha256": "adc3dbacd6b38ee8a9ff94b4c0ae3c3773826b92fa859d023d292d040e0acaaf"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/gravity-forms.js",
+      "sha256": "e6a090d8c1647da9df43a6f6da88c6c497683ef1b4af746a4ab4a5a06cc033a9"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/hubspot-forms.js",
+      "sha256": "ecde2f6d6507a834920de99abf7ae8f78cfdd981d9f03e79dc2b9145962e3071"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/jotform.js",
+      "sha256": "72321c0cdbac4995e6752741da7afd91c96d1b2ec486a7469b93fef20f1bdff5"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/ninja-forms.js",
+      "sha256": "930eeddc2988762a402d8047d61bb220347eed44065088123646d8e8c567f0be"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/phone-click.js",
+      "sha256": "502a1bc554579c36becc08b455c806adec82ca01d43d8d73b1251ab24a513870"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/squarespace-forms.js",
+      "sha256": "ce2b494dfb658077d16952219e5057e86b097a730826567d451cc77e275fedae"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/tally.js",
+      "sha256": "2d8e1d098455a371d93870fe195e1ef2ece84b60bf7a92d2867eab9f8421686e"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/thank-you-page.js",
+      "sha256": "e06594b9ed6ce8d25390594f77caef2996b959ce5853e0f76eebbc85056c87e9"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/typeform.js",
+      "sha256": "72263000329964dbc4be312d447fd54c3c521cba112348db276c61b82d88487b"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/webflow-forms.js",
+      "sha256": "70147fe014e39af513f664c1c687b0e0d62c8513cce82f73794eb98c881b4200"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/wix-forms.js",
+      "sha256": "59dd95eee0a031e2bef15fcec0d0f8e26c0af2c4c16e7c9a222d7ba6b487cd45"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/wix-scheduling.js",
+      "sha256": "d91348c7ab1c0f6de78ca63ea9743fdfc38de591e3871ead591ad17ff107a4ba"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/wpforms.js",
+      "sha256": "e19be843ea2a44204b0e4382902f2571349f7596d7bb22bdc11caa2195ca15ed"
+    },
+    {
+      "path": "skills/conversion-tracking/assets/snippets/ws-form.js",
+      "sha256": "fe61749515891e2bd6e32b84bb25ab0845d71b07d3ede81ca9382db252b60662"
+    },
+    {
+      "path": "skills/conversion-tracking/references/audit-playbook.md",
+      "sha256": "d55c2b781e84973bccb1e6f75860de0df8cd5ef1db6ab69a036ddb99d698c0cb"
+    },
+    {
+      "path": "skills/conversion-tracking/references/browser-side.md",
+      "sha256": "d31b92606479c5b40340c137f25ff56d427b25dcb952a2be9ea219f71f2a55f3"
+    },
+    {
+      "path": "skills/conversion-tracking/references/conversion-moments.md",
+      "sha256": "827baa68c0fd7f5658db959ab0349012a8012c75d0ab3b2da85ea74ec75f13e6"
+    },
+    {
+      "path": "skills/conversion-tracking/references/discrepancies.md",
+      "sha256": "ad85f70371f2aebf2ab7624969a93a759b0dccc6b4ae046f8c7451e81dca2078"
+    },
+    {
+      "path": "skills/conversion-tracking/references/ecommerce-platforms.md",
+      "sha256": "b7dca043096fa4c9b502c42e1a74ca00231c6c7948d4b8b925c130998f72d36e"
+    },
+    {
+      "path": "skills/conversion-tracking/references/google-ads.md",
+      "sha256": "64b1687bc8bd4993abedf82572be472caee83b43b350f08f7cf061d35fbbb46a"
+    },
+    {
+      "path": "skills/conversion-tracking/references/meta.md",
+      "sha256": "984e85c0c043c56297cc3b0649d0dcd37232f05b75a5ce8127a6b3fe03353741"
+    },
+    {
+      "path": "skills/conversion-tracking/references/other-platforms.md",
+      "sha256": "158f37efe6b569a0d09ae808705182a5718f8dafce90bebffbf406176d90698a"
+    },
+    {
+      "path": "skills/conversion-tracking/references/server-side.md",
+      "sha256": "d47f28a68fa677c9899a771334318989c313d41e1a29fd1d6682fb0195cc851b"
+    },
+    {
+      "path": "skills/conversion-tracking/scripts/build_recipe.py",
+      "sha256": "5024e952becb54eaa1f12e086473aaa93c624cf8c63debf07f83bc802d580bf2"
+    },
+    {
+      "path": "skills/conversion-tracking/scripts/check_recipes.py",
+      "sha256": "47fbf50c39c906e9fe60e25cbef582137fe935fa2808dadfa7bcfd19c7774fa9"
+    },
+    {
+      "path": "skills/copy-editing/SKILL.md",
+      "sha256": "cec5a771ce37ade292f7f1f6b418e8a6ce6ec3f50163fa5e664afbcb03e085fc"
+    },
+    {
+      "path": "skills/copy-editing/references/checklist.md",
+      "sha256": "4cf94c922286223681fc53721fcc65ae7299f1e36e797e7397d369d674580c60"
+    },
+    {
+      "path": "skills/copy-editing/references/content-refresh.md",
+      "sha256": "ba73cdf278fe6b552eee27eb1452494f11f9d17ef67d720657e0982f76fb961b"
+    },
+    {
+      "path": "skills/copy-editing/references/plain-english-alternatives.md",
+      "sha256": "df4f820d4c63ae8a517c64a243c101658352cd07d002355bf3c97de0a00f3775"
+    },
+    {
+      "path": "skills/copywriting/SKILL.md",
+      "sha256": "02f0ab1ddd41d95b3c230d4bcff3de6578c8f2e45776c8ef2e4b931636af5bee"
+    },
+    {
+      "path": "skills/copywriting/references/ai-tells.md",
+      "sha256": "b98c3a19b3a75c714d69e80a0076e4c07244b0e833c2ce81ff2631224fb7f7b2"
+    },
+    {
+      "path": "skills/copywriting/references/copy-frameworks.md",
+      "sha256": "4db06c481a904be3e4571ad8f671532c97ec186ddf0fb8aee3e3a56ef8e3d441"
+    },
+    {
+      "path": "skills/copywriting/references/natural-transitions.md",
+      "sha256": "9bd61b0de5be2c4de4ce130c68236b4f290b12737823827a458bb2b4c8584683"
+    },
+    {
+      "path": "skills/customer-research/SKILL.md",
+      "sha256": "22964b89315a6cf5524d3f627904843e7826d40e06689a07faa5df25fc730bc7"
+    },
+    {
+      "path": "skills/customer-research/references/interviews-and-surveys.md",
+      "sha256": "56adecdc40af1242464937100349fc1a161627394909551720494bc5ee537076"
+    },
+    {
+      "path": "skills/customer-research/references/source-guides.md",
+      "sha256": "7490a8d04f209d4c8c987530e79d0883a6b42027b86a920fc751cf8ea9904892"
+    },
+    {
+      "path": "skills/image/SKILL.md",
+      "sha256": "65194b8fa6b7f24fdf95863f02283bbdf6ed36438d8ab195fbc8be56157759c6"
+    },
+    {
+      "path": "skills/image/references/ai-image-prompting.md",
+      "sha256": "a4a80ada1e2e1d5e1d9ee1557486155bfc850b46e1c4218c926ac6a806d9f78d"
+    },
+    {
+      "path": "skills/marketing-loops/SKILL.md",
+      "sha256": "7863a6642d22500afb57a45f4126fade2cc5471b68ef1cda04a139c75bba821e"
+    },
+    {
+      "path": "skills/marketing-loops/references/loop-catalog.md",
+      "sha256": "5c71df92a461a34d6d4db993d7b9e021792ddd054b1e33fe5ebed66e05f984d2"
+    },
+    {
+      "path": "skills/marketing-loops/references/loop-guardrails.md",
+      "sha256": "a93cdb67d28773d72e789c937a26f3062129c8a0076018ac24269d52e7a31e46"
+    },
+    {
+      "path": "skills/marketing-loops/references/loop-orchestration.md",
+      "sha256": "8ef60ebde4fec8ef4f94fb6d087ddac5e311c0c3c298015f681382fe735ca1d6"
+    },
+    {
+      "path": "skills/marketing-loops/references/loop-state.md",
+      "sha256": "4ffe822756019407babc4a3cb337be160362ad88b41919cb70d1d039a76e2c15"
+    },
+    {
+      "path": "skills/marketing-loops/references/loop-template.md",
+      "sha256": "695fde57b9b0735e49b5fc718b0e8eb726808c08b19bea89056f8913cf1bff26"
+    },
+    {
+      "path": "skills/marketing-loops/references/outbound-operator.md",
+      "sha256": "113fae79e0852c68b929cae8711c05f9e5e53abfdfa3828553cdd1626e2d4fce"
+    },
+    {
+      "path": "skills/marketing-loops/references/seo-operator.md",
+      "sha256": "5b3b6c3bbc2af2f07d31bc23eefe2558a0b3aca23c8f88f156a4cff14d2f5a45"
+    },
+    {
+      "path": "skills/marketing-plan/SKILL.md",
+      "sha256": "2b75dfae852bdb61fd96eebe3d2b373f99f67c86ff830f796310f662ba8906e8"
+    },
+    {
+      "path": "skills/marketing-plan/references/aarrr-framework.md",
+      "sha256": "5c7bf583c2aa62e193789b6b1a88a978bf3ba9dc0c8c6653b53f7f62c0c1a0e3"
+    },
+    {
+      "path": "skills/marketing-plan/references/budget-planning.md",
+      "sha256": "4351fa1712b66e3e527b71ec9a2e01a68edb43e77b6d310bb424756c6d1a17f7"
+    },
+    {
+      "path": "skills/marketing-plan/references/client-types.md",
+      "sha256": "06e3d0a6f3e9b7195a8c0b43d5186769d1554d1dfd8b1212aca220f9ce09fc01"
+    },
+    {
+      "path": "skills/marketing-plan/references/current-state-rubric.md",
+      "sha256": "8ab1d4a4d16ec01c2bf61d83807c0abd857aadd82f3eeaf4e4842b4bbeff1f03"
+    },
+    {
+      "path": "skills/marketing-plan/references/example-quietude.md",
+      "sha256": "63c002257ee1f6eaeb7c99c4ab9c650ea8bd8f7586c75e4565c2322faef82a04"
+    },
+    {
+      "path": "skills/marketing-plan/references/funding-stage-unlocks.md",
+      "sha256": "49f073653ac32dd42b7e5e10c3deabd7adae8120c41baf0cf813ec20164c6488"
+    },
+    {
+      "path": "skills/marketing-plan/references/growth-patterns.md",
+      "sha256": "fafa84b8c3a62ed9c33c30fc25c7422e0d87b935de990d0acbf91889e1a053de"
+    },
+    {
+      "path": "skills/marketing-plan/references/idea-cross-reference.md",
+      "sha256": "350fa9c6f4cb4cd8f23698adb8479ae94cd6564a06b2b7cfcdf1430448e68d2f"
+    },
+    {
+      "path": "skills/marketing-plan/references/market-sizing.md",
+      "sha256": "e991bf2f38948ea4e829c74fea83f367fbcacb4d6c2ca0f4ca89fc8b9fb2bc0e"
+    },
+    {
+      "path": "skills/marketing-plan/references/measurement-framework.md",
+      "sha256": "93d9bf9d9e624a6031a27ce61cf1617e3aa5a8fff57e1c6f80194f847234b745"
+    },
+    {
+      "path": "skills/marketing-plan/references/methodology.md",
+      "sha256": "a5ae96ee26c800aa40eafcb525139e3dd49b2c1d24005fdcc038287ad25ede7e"
+    },
+    {
+      "path": "skills/marketing-plan/references/ops-stack-mapping.md",
+      "sha256": "9a506816d87ed176c0578d13bbf25c5f8398872d9002b3589e2dfa42ad17c907"
+    },
+    {
+      "path": "skills/marketing-plan/references/plan-template.md",
+      "sha256": "bce84c2c3c31c9163a0849a1371aadb13f6ab8b29402e64b7d5b95c316a79656"
+    },
+    {
+      "path": "skills/marketing-plan/references/team-and-agency-model.md",
+      "sha256": "0c5e55c0992de4d5d24cd299eb46765a8986cb204ebd7c65bce32c868ae0d5f7"
+    },
+    {
+      "path": "skills/social/SKILL.md",
+      "sha256": "e34e66ad425840acf728fd64866ab8c8da01049408b5c814fa5d90aca7861071"
+    },
+    {
+      "path": "skills/social/references/carousel-frameworks.md",
+      "sha256": "e703aa530ec9f68cdf5b58e8e0d4d1a5cc3f22b9e2d3e3222f16a9763d423247"
+    },
+    {
+      "path": "skills/social/references/listening-sources-template.md",
+      "sha256": "c68bc6f57b0a48c432b1ce72c9324d41a04d0e7784d0bab91afb4a6065a43e38"
+    },
+    {
+      "path": "skills/social/references/listening.md",
+      "sha256": "52cf68aaaa57a69b69b3587ffd9b848a6f1ca7e0d51378f566339ad7f2b730e0"
+    },
+    {
+      "path": "skills/social/references/platform-limits.md",
+      "sha256": "6ecc6b40ff82b95c48906341f7d3c58337671d4d94f624c858764f1ed5a77c3c"
+    },
+    {
+      "path": "skills/social/references/platforms.md",
+      "sha256": "bb8c2f466184518a1290edbea99eef6b7dcad8e1f8091453d4dc5a21831b66b9"
+    },
+    {
+      "path": "skills/social/references/post-templates.md",
+      "sha256": "9cca4680c95801daedfd8acadf9089d0083784c2567784888807569896f71d9b"
+    },
+    {
+      "path": "skills/social/references/reverse-engineering.md",
+      "sha256": "c27bef59d463b3b11331c1770f4a23e9e6bbce7d7c8db1e7f7f4f14ba206243f"
+    },
+    {
+      "path": "skills/social/references/short-form-video.md",
+      "sha256": "04b567900eaac90833f3abf370a3e1c4d650f83a0672108e07a7f01bde3a64ad"
+    },
+    {
+      "path": "skills/social/references/x-algorithm.md",
+      "sha256": "943b2c5a819aad53ebf62a1652adc47956d6fdf738e18cd98eeb609819a66180"
+    },
+    {
+      "path": "skills/video/SKILL.md",
+      "sha256": "1f0ee7367c731cbbd760c63c308b4e9e3aeebe94a03f2f31aa2c23309f9723a8"
+    },
+    {
+      "path": "skills/video/references/ai-video-prompting.md",
+      "sha256": "210eaecc05367aacbaf35660ed7352809e31fb326123d0cfd6ab03c09681d13e"
+    },
+    {
+      "path": "skills/video/references/code-rendered-product-films.md",
+      "sha256": "d16af2f7b651c38383cc6c4f869cb19dac3dcce91cddae295f72edac44d80e05"
+    },
+    {
+      "path": "skills/video/references/edit-anatomy.md",
+      "sha256": "3d59e1f01d46eb04bcdbf88e2165bbf5aa80f626beb955522432ec4aede3c9fb"
+    },
+    {
+      "path": "skills/video/references/product-demo-recording.md",
+      "sha256": "4bbc44e02f963df8c36e06d96ae195d3e8af911f604cb08fd7b7ea72c974fba5"
+    }
+  ]
+}

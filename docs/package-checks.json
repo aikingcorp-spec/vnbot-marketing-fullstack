@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-11",
+  "source_substitution_only": {
+    "aiki": true,
+    "yuna": true,
+    "sung": true,
+    "nam": true,
+    "tu": true
+  },
+  "privacy_scan": "passed",
+  "environment_secret_scan": "passed_no_values_logged",
+  "tamper_rejection": "passed",
+  "installation_test": "not_run",
+  "native_skill_attachment": "not_verified",
+  "github_upload": "pending_connection"
+}

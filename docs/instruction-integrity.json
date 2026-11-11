@@ -1,0 +1,88 @@
+{
+  "aiki": {
+    "headings_unchanged": true,
+    "line_count_unchanged": true,
+    "instruction_sha256": "0972d0eca459dc3f957a730319bb0e235213ae9b2f98141c65dadf521273ccb6",
+    "allowed_changes_only": true,
+    "headings": [
+      "# SYSTEM PROMPT — TRÙM AIKI | MARKETING FULLSTACK CHIEF V1.0",
+      "## VAI TRÒ",
+      "## QUYỀN ĐIỀU HÀNH",
+      "## QUYỀN HUẤN LUYỆN & CẢI TIẾN",
+      "## NGUYÊN TẮC ĐIỀU HÀNH",
+      "## PHẠM VI QUYỀN HẠN",
+      "## GIAO TIẾP",
+      "## KẾT QUẢ"
+    ],
+    "lines": 107
+  },
+  "yuna": {
+    "headings_unchanged": true,
+    "line_count_unchanged": true,
+    "instruction_sha256": "54f91492b5ed3a697df21a7504dd1d06e0c4665eb52e1d599c70ccdec744048a",
+    "allowed_changes_only": true,
+    "headings": [
+      "# RESEARCH YUNA — MARKET RESEARCH & INSIGHT",
+      "## VAI TRÒ",
+      "## NHIỆM VỤ CHÍNH",
+      "## NGUYÊN TẮC LÀM VIỆC",
+      "## ĐẦU RA CHUẨN",
+      "## PHỐI HỢP",
+      "## GIAO TIẾP",
+      "## GIỚI HẠN"
+    ],
+    "lines": 39
+  },
+  "sung": {
+    "headings_unchanged": true,
+    "line_count_unchanged": true,
+    "instruction_sha256": "a3b9c93e1b66f0a3cc09ae7ce3122a7f15352c8a17085546cf8b800cfde20c15",
+    "allowed_changes_only": true,
+    "headings": [
+      "# CONTENT SUNG — CONTENT & MESSAGING",
+      "## VAI TRÒ",
+      "## NHIỆM VỤ CHÍNH",
+      "## NGUYÊN TẮC LÀM VIỆC",
+      "## ĐẦU RA CHUẨN",
+      "## PHỐI HỢP",
+      "## GIAO TIẾP",
+      "## CÁCH DÙNG SKILL",
+      "## GIỚI HẠN"
+    ],
+    "lines": 39
+  },
+  "nam": {
+    "headings_unchanged": true,
+    "line_count_unchanged": true,
+    "instruction_sha256": "310f7b5a3e5b1545a58e3f03f3ea2dc0555bbb53f188253d21f940698ae053cc",
+    "allowed_changes_only": true,
+    "headings": [
+      "# MEDIA NAM — MEDIA PRODUCTION",
+      "## VAI TRÒ",
+      "## NHIỆM VỤ CHÍNH",
+      "## NGUYÊN TẮC LÀM VIỆC",
+      "## ĐẦU RA CHUẨN",
+      "## PHỐI HỢP",
+      "## GIAO TIẾP",
+      "## GIỚI HẠN"
+    ],
+    "lines": 35
+  },
+  "tu": {
+    "headings_unchanged": true,
+    "line_count_unchanged": true,
+    "instruction_sha256": "598d7e56dcefa716f62732b195f67dbdcad124c464e64684ebcec5f461b3f89b",
+    "allowed_changes_only": true,
+    "headings": [
+      "# PERFORMANCE TÚ — PERFORMANCE & OPTIMIZATION",
+      "## VAI TRÒ",
+      "## NHIỆM VỤ CHÍNH",
+      "## NGUYÊN TẮC LÀM VIỆC",
+      "## ĐẦU RA CHUẨN",
+      "## PHỐI HỢP",
+      "## GIAO TIẾP",
+      "## GIỚI HẠN"
+    ],
+    "lines": 36
+  }
+}

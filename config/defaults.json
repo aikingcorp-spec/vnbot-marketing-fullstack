@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "manager": "user",
+  "business": {
+    "brand": null,
+    "products": [],
+    "audiences": [],
+    "voice": null,
+    "channels": [],
+    "goals": [],
+    "kpis": {}
+  },
+  "mode": "draft",
+  "publishing_requires_user_approval": true,
+  "spending_requires_user_approval": true,
+  "connections": {},
+  "schedules": []
+}

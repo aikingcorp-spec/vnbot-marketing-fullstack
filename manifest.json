@@ -1,0 +1,76 @@
+{
+  "name": "vnbot-marketing-fullstack",
+  "version": "0.1.0",
+  "platform": "VNBot",
+  "status": "local-package-not-install-tested",
+  "install_entrypoint": "INSTALL.md",
+  "business_profile_required": false,
+  "defaults": {
+    "mode": "draft",
+    "external_actions": false,
+    "schedules_enabled": false,
+    "accounts_connected": false
+  },
+  "bots": [
+    {
+      "key": "aiki",
+      "name": "TRÙM AIKI",
+      "title": "Điều phối chiến dịch",
+      "description": "Điều phối chiến dịch cho đội Marketing Fullstack của user.",
+      "instructions": "bots/aiki/INSTRUCTIONS.md",
+      "skills": [
+        "marketing-plan",
+        "marketing-loops"
+      ]
+    },
+    {
+      "key": "yuna",
+      "name": "RESEARCH YUNA",
+      "title": "Nghiên cứu thị trường & Insight",
+      "description": "Nghiên cứu thị trường & Insight cho đội Marketing Fullstack của user.",
+      "instructions": "bots/yuna/INSTRUCTIONS.md",
+      "skills": [
+        "customer-research",
+        "competitor-profiling"
+      ]
+    },
+    {
+      "key": "sung",
+      "name": "CONTENT SUNG",
+      "title": "Nội dung & Thông điệp đa kênh",
+      "description": "Nội dung & Thông điệp đa kênh cho đội Marketing Fullstack của user.",
+      "instructions": "bots/sung/INSTRUCTIONS.md",
+      "skills": [
+        "content-strategy",
+        "copywriting",
+        "copy-editing",
+        "social",
+        "ad-creative",
+        "fb-content-viet-style"
+      ]
+    },
+    {
+      "key": "nam",
+      "name": "MEDIA NAM",
+      "title": "Sản xuất hình ảnh & Video",
+      "description": "Sản xuất hình ảnh & Video cho đội Marketing Fullstack của user.",
+      "instructions": "bots/nam/INSTRUCTIONS.md",
+      "skills": [
+        "image",
+        "video"
+      ]
+    },
+    {
+      "key": "tu",
+      "name": "PERFORMANCE TÚ",
+      "title": "Triển khai & Tối ưu chuyển đổi",
+      "description": "Triển khai & Tối ưu chuyển đổi cho đội Marketing Fullstack của user.",
+      "instructions": "bots/tu/INSTRUCTIONS.md",
+      "skills": [
+        "analytics",
+        "conversion-tracking",
+        "ab-testing"
+      ]
+    }
+  ]
+}

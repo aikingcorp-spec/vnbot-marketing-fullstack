@@ -1,0 +1,58 @@
+{
+  "package_version": "0.1.0",
+  "shared_package_path": null,
+  "bots": {
+    "aiki": {
+      "id": null,
+      "created": false,
+      "reused": false,
+      "instructions_verified": false,
+      "skill_file_available": false,
+      "native_registered": false,
+      "bot_verified": false,
+      "blocker": null
+    },
+    "yuna": {
+      "id": null,
+      "created": false,
+      "reused": false,
+      "instructions_verified": false,
+      "skill_file_available": false,
+      "native_registered": false,
+      "bot_verified": false,
+      "blocker": null
+    },
+    "sung": {
+      "id": null,
+      "created": false,
+      "reused": false,
+      "instructions_verified": false,
+      "skill_file_available": false,
+      "native_registered": false,
+      "bot_verified": false,
+      "blocker": null
+    },
+    "nam": {
+      "id": null,
+      "created": false,
+      "reused": false,
+      "instructions_verified": false,
+      "skill_file_available": false,
+      "native_registered": false,
+      "bot_verified": false,
+      "blocker": null
+    },
+    "tu": {
+      "id": null,
+      "created": false,
+      "reused": false,
+      "instructions_verified": false,
+      "skill_file_available": false,
+      "native_registered": false,
+      "bot_verified": false,
+      "blocker": null
+    }
+  },
+  "next_role": "aiki",
+  "complete": false
+}
