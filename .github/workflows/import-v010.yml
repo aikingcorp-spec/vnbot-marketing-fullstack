@@ -1,0 +1,43 @@
+name: Import exact v0.1.0 package
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Restore exact local package and verify hashes
+        shell: python
+        run: |
+          import base64, zlib, json, hashlib, urllib.request, zipfile, io, subprocess
+          from pathlib import Path
+          encoded = ''.join(Path('.import/payload-' + str(i) + '.b64').read_text() for i in range(2))
+          raw = zlib.decompress(base64.b64decode(encoded))
+          assert hashlib.sha256(raw).hexdigest() == '1c1b7b4782367968fb25c640ec8d78c9563f412cf3eb6583f238d0c9f3741ca3', 'Import payload mismatch'
+          payload = json.loads(raw)
+          url = 'https://codeload.github.com/coreyhaines31/marketingskills/zip/' + payload['commit']
+          with urllib.request.urlopen(url, timeout=60) as response:
+              archive = zipfile.ZipFile(io.BytesIO(response.read()))
+          prefix = archive.namelist()[0]
+          for name, expected in payload['hashes'].items():
+              assert not Path(name).is_absolute() and '..' not in Path(name).parts
+              if name in payload['files']:
+                  data = payload['files'][name].encode('utf-8')
+              else:
+                  lines = archive.read(prefix + name).decode('utf-8').splitlines(keepends=True)
+                  for start, end, replacement in reversed(payload['patches'].get(name, [])):
+                      lines[start:end] = replacement
+                  data = ''.join(lines).encode('utf-8')
+              assert hashlib.sha256(data).hexdigest() == expected, 'File checksum mismatch: ' + name
+              target = Path(name)
+              target.parent.mkdir(parents=True, exist_ok=True)
+              target.write_bytes(data)
+          subprocess.run(['python3', 'scripts/validate.py'], check=True)
+          subprocess.run(['git', 'config', 'user.name', 'VNBot package importer'], check=True)
+          subprocess.run(['git', 'config', 'user.email', '277476971+aikingcorp-spec@users.noreply.github.com'], check=True)
+          subprocess.run(['git', 'add', '--'] + list(payload['hashes']), check=True)
+          subprocess.run(['git', 'commit', '-m', 'Import exact v0.1.0: 5 roles, 15 skills, 176 verified files'], check=True)
+          subprocess.run(['git', 'push', 'origin', 'HEAD:main'], check=True)
