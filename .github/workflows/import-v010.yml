@@ -14,7 +14,7 @@ jobs:
         run: |
           import base64, zlib, json, hashlib, urllib.request, zipfile, io, subprocess
           from pathlib import Path
-          encoded = ''.join(Path('.import/payload-' + str(i) + '.b64').read_text() for i in range(2))
+          encoded = ''.join(Path('.import/payload-0-' + str(i) + '.b64').read_text() for i in range(5)) + Path('.import/payload-1.b64').read_text()
           raw = zlib.decompress(base64.b64decode(encoded))
           assert hashlib.sha256(raw).hexdigest() == '1c1b7b4782367968fb25c640ec8d78c9563f412cf3eb6583f238d0c9f3741ca3', 'Import payload mismatch'
           payload = json.loads(raw)
